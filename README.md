@@ -10,5 +10,28 @@ I also included all the topics that this course covered in the bottom for refere
 - Printing
 - Debugging
 - Input
-- Variable and naming
+- Variable and Naming
+
+## Day 2 - Tip Calculator
+
+- Data Types
+- Type Error, Type Checking and Type Conversion
+- Mathematical Operations
+- Number Manipulation and F Strings
+
+## Day 3 - Treasure Island
+
+- Control Flow and Conditional Operators
+- Logical Operators
+
+## Day 4 - Rock Papaer Scissors
+
+- Random Module
+- Offset and Appending Items to Lists
+- IndexErrors and working with Nested Lists
+
+## Day 5 - Password Generator
+
+- For Loop
+- Range() Function
 
